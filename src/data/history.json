@@ -1,0 +1,26 @@
+[
+  {
+    "title":"Customer Relationship Management (CRM) system",
+    "role": "Full Stack Java developer intern",
+    
+    
+    "description": "This project aims to help businesses enhance customer relationships, improve retention, and drive sales growth.",
+    "Technologies": "HTML5, CSS3, JavaScript, Java, Spring Boot, Oracle, Git"
+  },
+  {
+    "title":"Stock Trading Simulation System",
+    "role": "Full Stack Java developer intern",
+    
+    
+    "description": "Stock Trading Simulation System to provide users with a realistic trading experience, allowing them to practice trading strategies, monitor portfolio performance, and enhance their trading skills without financial risk.",
+    "Technologies": "HTML5, CSS3, JavaScript, Java, Spring Boot, Oracle, Git"
+  },
+  {
+    "title":"News Aggregator Website",
+    "role": "Full Stack Java developer intern",
+    
+    
+    "description": "I developed a News Aggregator Website, centralizing news from various sources for a comprehensive and customizable reading experience.",
+    "Technologies": "HTML5, CSS3, JavaScript, Java, Spring Boot, Oracle, Git"
+  }
+]
